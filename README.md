@@ -1,5 +1,11 @@
 Hi 👋 My name is Vladimir Matarrita Céspedes
-============================================Software Engineer-----------------A responsible, collaborative, adaptable, and efficient professional. Eager to learn and grow both professionally and personally. Always ready to support and help my team in whatever way I can by using the experience I have gained from all these years working in the tech industry. Open to receiving feedback so I can improve myself as a team member. Willing to learn new technologies, new workarounds, and best practices to improve my skills and gain more knowledge about what is currently trending.* 🌍  I'm based in Alajuela, Costa Rica* ✉️  You can contact me at [vmatarrita88@gmail.com](mailto:vmatarrita88@gmail.com)* 🧠  I'm learning some new technologies for software automation testing and software development* 🤝  I'm open to collaborating on interesting projects and greate companies* ⚡  I'm secretely not a normal human
+<br/>Software Engineer
+<br/>A responsible, collaborative, adaptable, and efficient professional. Eager to learn and grow both professionally and personally. Always ready to support and help my team in whatever way I can by using the experience I have gained from all these years working in the tech industry. Open to receiving feedback so I can improve myself as a team member. Willing to learn new technologies, new workarounds, and best practices to improve my skills and gain more knowledge about what is currently trending.
+<br/>* 🌍  I'm based in Alajuela, Costa Rica
+<br/>* ✉️  You can contact me at [vmatarrita88@gmail.com](mailto:vmatarrita88@gmail.com)
+<br/>* 🧠  I'm learning some new technologies for software automation testing and software development
+<br/>* 🤝  I'm open to collaborating on interesting projects and greate companies
+<br/>* ⚡  I'm secretely not a normal human
 
 ### Skills
 
