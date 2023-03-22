@@ -6,7 +6,7 @@ Hi 👋 My name is Vladimir Matarrita Céspedes
 <br/>* 🌍  I'm based in Alajuela, Costa Rica
 <br/>* ✉️  You can contact me at [vmatarrita88@gmail.com](mailto:vmatarrita88@gmail.com)
 <br/>* 🧠  I'm learning some new technologies for software automation testing and software development
-<br/>* 🤝  I'm open to collaborating on interesting projects and greate companies
+<br/>* 🤝  I'm open to collaborating on interesting projects and great companies
 <br/>* ⚡  I'm secretely not a normal human
 
 ### Skills
